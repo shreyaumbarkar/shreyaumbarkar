@@ -1,38 +1,18 @@
-- 👋 Hey there! Welcome to my profile!
+<h1 align="center">Hi 👋, I'm Shreya Umbarkar</h1>
+<h3 align="center">A passionate frontend developer from IndiaAspiring QA Engineer with a strong focus on Automation Testing using Java Selenium. Skilled in ensuring software quality through detailed and efficient testing.</h3>
 
-About Me
-🌟 I'm Shreya Umbarkar a passionate and enthusiastic individual diving into the world of software testing. 
-I'm on a journey to explore the intricate realms of quality assurance, ensuring that software products not only meet but exceed expectations.
+- 🔭 I’m currently working on **Selenium Project**
 
-Skills
-🔍 Manual Testing: Proficient in manual testing techniques to meticulously evaluate software functionality and performance.
+- 🌱 I’m currently learning **Automation Testing And Manual Testing**
 
-🛠️ Test Automation: Developing skills in test automation frameworks like Selenium for efficient and effective testing processes.
+- 💬 Ask me about **Java, Manual Concept as well as Automation Concept**
 
-📊 Bug Tracking: Experienced in utilizing bug tracking tools such as Jira to report and monitor issues throughout the software development lifecycle.
+- 📫 How to reach me **shreyaumbarkar2307@gmail.com**
 
-🔧 Troubleshooting: Adept at identifying, isolating, and resolving software defects to enhance product quality.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/shreya_2307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya_2307" height="30" width="40" /></a>
+</p>
 
-📝 Documentation: Skilled in creating comprehensive test plans, test cases, and test reports to ensure clear communication and traceability.
-
-Projects
-🚀 Project 1 - E-commerce Website Testing: Led a team in testing an e-commerce platform, ensuring seamless functionality across various devices and browsers.
-
-🔬 Project 2 - Mobile App Testing: Conducted extensive testing on a mobile application, focusing on user experience, performance, and security.
-
-🧪 Project 3 - Test Automation Implementation: Spearheaded the implementation of test automation using Selenium, resulting in significant time and resource savings.
-
-Education
-🎓 Master in Computer Science
-
-Goals
-🌱 My goal is to continue learning and growing in the field of software testing, mastering both manual and automated testing techniques. I aim to contribute to innovative projects, ensuring the delivery of high-quality software products that delight users.
-
-Let's Connect!
-📫 Feel free to reach out to me via email at shreyaumbarkar2307@gmail,com or connect with me on LinkedIn.
-
-Thanks for stopping by!
-🚀 Looking forward to connecting with fellow testers and software enthusiasts to exchange ideas and insights!
-
-
-3 / 3
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
