@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shreya Umbarkar</h1>
-<h3 align="center">A Aspiring QA Engineer with a strong focus on Automation Testing using Java Selenium. Skilled in ensuring software quality through detailed and efficient testing.</h3>
+<h3 align="center">A passionate frontend developer from IndiaAspiring QA Engineer with a strong focus on Automation Testing using Java Selenium. Skilled in ensuring software quality through detailed and efficient testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaumbarkar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaumbarkar" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Selenium Project**
 
 - 🌱 I’m currently learning **Automation Testing And Manual Testing**
 
-- 💬 Ask me about **Java, Manual Concept as well as Automation Concept**
+- 💬 Ask me about **Java, Manual Testing as well as Automation Testing,Software development lifecycle,Aware about agile methodology.**
 
 - 📫 How to reach me **shreyaumbarkar2307@gmail.com**
 
